@@ -30,6 +30,7 @@
 - [Fonts](#-fonts)
 - [Colors & Design](#-colors--design)
 - [AI & Machine Learning](#-ai--machine-learning)
+- [Game Development](#-game-development)
 - [Code Editors & IDEs](#-code-editors--ides)
 - [Version Control](#-version-control)
 - [CI/CD](#-cicd)
@@ -42,6 +43,7 @@
 - [Learning & Practice](#-learning--practice)
 - [Productivity](#-productivity)
 - [Security](#-security)
+- [Payment & Commerce](#-payment--commerce)
 
 ---
 
@@ -123,7 +125,7 @@
 ## CSS & UI
 
 | Tool | Description |
-|------|------------|
+|------|-------------|
 | [Tailwind CSS](https://tailwindcss.com) | Utility-first CSS framework |
 | [shadcn/ui](https://ui.shadcn.com) | Copy-paste React components |
 | [DaisyUI](https://daisyui.com) | Tailwind component library |
@@ -195,6 +197,26 @@
 | [Together AI](https://together.ai) | $25 free credit | Open LLMs |
 | [Replicate](https://replicate.com) | Some free models | ML APIs |
 | [Stability AI](https://stability.ai) | 25 free credits | Image gen |
+
+## Game Development
+
+| Tool | Free Tier | Best For |
+|------|-----------|----------|
+| [Godot](https://godotengine.org) | 100% free, open source | 2D/3D games, any platform |
+| [GDevelop](https://gdevelop.io) | Free, no-code | 2D games, mobile, quick prototyping |
+| [Phaser](https://phaser.io) | Open source | HTML5/browser games |
+| [Kaboom.js](https://kaboomjs.com) | Open source | Quick browser games |
+| [Three.js](https://threejs.org) | Open source | 3D web experiences |
+| [PlayCanvas](https://playcanvas.com) | Free tier, 200MB | 3D web games, WebGL |
+| [Roblox Studio](https://create.roblox.com) | Free, monetizable | Roblox experiences |
+| [Construct](https://construct.net) | Free tier, 2 projects | Visual game builder |
+| [PixiJS](https://pixijs.com) | Open source | 2D rendering engine |
+| [Tiled](https://mapeditor.org) | Open source | Tile map editor |
+| [Piskel](https://piskelapp.com) | Free | Pixel art & sprites |
+| [Aseprite Web](https://libresprite.github.io) | Open source (LibreSprite) | Pixel art animation |
+| [OpenGameArt](https://opengameart.org) | Free assets | Sprites, audio, 3D models |
+| [Kenney](https://kenney.nl) | Free CC0 assets | Game art, UI, audio |
+| [sfxr](https://sfxr.me) | Free | Retro sound effects |
 
 ## Code Editors & IDEs
 
@@ -340,6 +362,20 @@
 | [Let's Encrypt](https://letsencrypt.org) | Free SSL certificates |
 | [Cloudflare SSL](https://cloudflare.com) | Free SSL |
 | [OWASP ZAP](https://owasp.org/www-project-zap/) | Security testing |
+
+## Payment & Commerce
+
+| Tool | Free Tier | Best For |
+|------|-----------|----------|
+| [Stripe](https://stripe.com) | No monthly fee, pay per transaction | Global payments, subscriptions |
+| [Mercado Pago](https://mercadopago.com.br) | Free integration, Pix | Brazil, LATAM payments |
+| [LemonSqueezy](https://lemonsqueezy.com) | Free tier available | Digital products, SaaS |
+| [Gumroad](https://gumroad.com) | No monthly fee | Digital products |
+| [Ko-fi](https://ko-fi.com) | 0% commission | Tips, memberships |
+| [Buy Me a Coffee](https://buymeacoffee.com) | Free tier | Creator support |
+| [Paddle](https://paddle.com) | No upfront cost | SaaS billing |
+| [Open Collective](https://opencollective.com) | Free for OSS | Open source funding |
+| [GitHub Sponsors](https://github.com/sponsors) | No fees | Developer sponsorship |
 
 ---
 
