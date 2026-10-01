@@ -187,16 +187,17 @@
 
 | Tool | Free Tier | Use Case |
 |------|-----------|----------|
-| [Hugging Face](https://huggingface.co) | Free models & spaces | ML models |
 | [Google Colab](https://colab.google) | Free GPU runtime | ML notebooks |
-| [Kaggle](https://kaggle.com) | Free GPU, datasets | Data science |
-| [Ollama](https://ollama.ai) | Local, free | Run LLMs locally |
-| [LM Studio](https://lmstudio.ai) | Free desktop | Local LLM UI |
-| [OpenRouter](https://openrouter.ai) | Free models available | LLM API gateway |
 | [Groq](https://groq.com) | Free tier | Fast LLM inference |
-| [Together AI](https://together.ai) | $25 free credit | Open LLMs |
+| [Hugging Face](https://huggingface.co) | Free models & spaces | ML models |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Free, MIT; local developer alpha | Encrypted knowledge store with MCP retrieval and scoped, expiring grants |
+| [Kaggle](https://kaggle.com) | Free GPU, datasets | Data science |
+| [LM Studio](https://lmstudio.ai) | Free desktop | Local LLM UI |
+| [Ollama](https://ollama.ai) | Local, free | Run LLMs locally |
+| [OpenRouter](https://openrouter.ai) | Free models available | LLM API gateway |
 | [Replicate](https://replicate.com) | Some free models | ML APIs |
 | [Stability AI](https://stability.ai) | 25 free credits | Image gen |
+| [Together AI](https://together.ai) | $25 free credit | Open LLMs |
 
 ## Game Development
 
